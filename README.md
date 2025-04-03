@@ -1,4 +1,4 @@
-# 🧪 user-agent-checker.py
+# 🧪 User-Agent-Checker
 
 Um scanner rápido e multithread que testa diferentes `User-Agent`s contra uma URL e exibe o status HTTP e métricas da resposta.
 
